@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/codg.ingif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/codg.ingif" align="center" style="width: 80%" height="400px"/>
 </div>  
   
 
