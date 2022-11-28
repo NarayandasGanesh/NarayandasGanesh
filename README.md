@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ganesh, a full-time Full Stack Developer 👨‍💻  🚀</div>  
+### <div align="center">I'm Ganesh, An Aspiring Full Stack Web Developer 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently Learning Frontend Development  
