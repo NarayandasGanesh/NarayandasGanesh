@@ -20,9 +20,7 @@
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-- Shine.com Is Online Job & Recruitment Portal Search Site. Tech Stack:- HTML, CSS,JavaScript [shine.com CLONE](https://rococo-syrniki-1a5dcd.netlify.app/)
-
-- Tripvillas.com Is One Of Asia's Largest Holiday Home Rental Companies. Tech Stack:- JavaScript, REACT, CHAKRA UI [tripvillas.com CLONE](https://vocal-pavlova-b43e27.netlify.app/)
+- Rodan + Fields is multinational marketing company with natural skincare 
 
 - 👨‍💻 All of my projects are available at [https://narayandasganesh.github.io/](https://narayandasganesh.github.io/)
 
@@ -32,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-kumar-sahu89/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raj Kumar Sahu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/virat-ganesh-593985206/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raj Kumar Sahu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,8 +50,7 @@
   
 <br/>
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+	<h2>Programming is an art where mind paints the logic on the Computer.... -Donald Knuth</h2>
   </div>
 
 
