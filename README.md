@@ -46,7 +46,7 @@
   </a>
 </p>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=narayandasganesh&theme=radical&hide_border=false" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=narayandasganesh&theme=radical&hide_border=false" /> -->
   <br/>  
 
 ## ✍️ Random Dev Quote
