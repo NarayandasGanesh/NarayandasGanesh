@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Narayandas Ganesh</h1>
 
-![MasterHead](https://raw.githubusercontent.com/rajkumarsahu89/rajkumarsahu89/main/cover.jpg)
+<!-- ![MasterHead](https://raw.githubusercontent.com/rajkumarsahu89/rajkumarsahu89/main/cover.jpg) -->
+<div align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/codg.ingif" align="center" style="width: 80%" height="400px"/>
+</div>  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Narayandas+Ganesh!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
@@ -13,14 +16,14 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarsahu89&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarsahu89" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NarayandasGanesh&label=Profile%20views&color=0e75b6&style=flat" alt="NarayandasGanesh" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarayandasGanesh" alt="NarayandasGanesh" /></a> </p>
 
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-- Rodan + Fields is multinational marketing company with natural skincare 
+- Rodan + Fields is multinational marketing company with natural skincare https://glittering-duckanoo-b64d5f.netlify.app/
 
 - 👨‍💻 All of my projects are available at [https://narayandasganesh.github.io/](https://narayandasganesh.github.io/)
 
@@ -30,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/virat-ganesh-593985206/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raj Kumar Sahu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/virat-ganesh-593985206"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raj Kumar Sahu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,7 +61,7 @@
 <br />
                                                                                                                
 
-<h3 align="center">🛠 &nbsp;Tech Stack </h3>
+<!-- <h3 align="center">🛠 &nbsp;Tech Stack </h3> -->
 
 
 <div align="center">
