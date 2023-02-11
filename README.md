@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/virat-ganesh-593985206"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ganesh" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/virat-ganesh-593985206](https://www.linkedin.com/in/narayandas-ganesh-593985206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcO2%2F%2FK3JQtq2VV%2BAa5Cy%2Bw%3D%3D)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ganesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
